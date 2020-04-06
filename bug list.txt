@@ -1,0 +1,13 @@
+20:41 2011-3-13 how to check the block is not out of the workwindow ==> okay, calculate the 4 rectangle before rotate, and check whether the rectangle is out of the workwindow
+
+20:42 2011-3-13 how to check whether the 4 rectangle of block are not drawed before a rotate action ==> okay, calculate the 4 rectangle before rotate, and check whether the 4 rangle is exist in the vector
+
+22:16 2011-3-15 some block will out of top of the workwindow when generated?
+22:29 2011-3-15 shape "S" angle 0 out of the bottom of the work window? ==> okay, bug of more than one downing thread
+
+22:59 2011/7/30 fix the bug of starting program will show a shape
+18:53 2011/7/31 fix the blink problem when redraw the window
+
+23:07 2011/7/31 down thread and main thread will update the current location value at the same time?? ==> okay, mutex
+23:18 2011/7/31 fix the bug of creating more than one downing thread when press down key more than one times 
+21:04 2011/8/5	suspend the main thread when starting down thread
