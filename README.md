@@ -5,5 +5,5 @@ C++练手程序：俄罗斯方块
 ## 开发工具
 Visual Studio。
 
-![image](https://github.com/walnut00/resources/blob/master/metriis.gif)
+![image](https://github.com/walnut00/Tetris/blob/master/tetris.gif)
 
