@@ -1,7 +1,7 @@
 # Tetris
 C++ practice game: 俄罗斯方块
 ## Features
-Support human VS computer, keyboard ↑: turn block, ↓: speed down, ←: left move, →: right move.
+Support human VS machine, keyboard ↑: turn block, ↓: speed down, ←: left move, →: right move.
 ## IDE
 Visual Studio。
 
